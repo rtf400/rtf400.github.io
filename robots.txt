@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rtf400.github.io/sitemap.xml
