@@ -43,6 +43,9 @@ avatar: assets/images/avatar.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
+# BuildSettings
+disqus-shortname: rtf400
+
 # Social settings
 facebook_url:
 github_url:
