@@ -43,6 +43,8 @@ avatar: assets/images/avatar.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
+site.url = http://rtf400.github.io/
+
 # BuildSettings
 disqus-shortname: rtf400
 
